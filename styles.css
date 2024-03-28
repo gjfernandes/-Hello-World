@@ -1,0 +1,17 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.hello-world {
+    font-size: 2em;
+    color: #333;
+    text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.2);
+}
